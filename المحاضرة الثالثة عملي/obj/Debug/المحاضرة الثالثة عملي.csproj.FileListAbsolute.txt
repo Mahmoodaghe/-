@@ -1,0 +1,9 @@
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Debug\المحاضرة الثالثة عملي.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Debug\المحاضرة الثالثة عملي.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Debug\المحاضرة الثالثة عملي.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.csprojResolveAssemblyReference.cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة_الثالثة_عملي.Form1.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة_الثالثة_عملي.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.pdb
